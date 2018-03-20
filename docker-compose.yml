@@ -3,8 +3,8 @@ services:
   aritan.org:
     image: alexaritan/aritan.org
     environment:
-      VIRTUAL_HOST: aritan.org
-      LETSENCRYPT_HOST: aritan.org
+      VIRTUAL_HOST: aritan.org,www.aritan.org
+      LETSENCRYPT_HOST: aritan.org,www.aritan.org
       LETSENCRYPT_EMAIL: alex@aritan.org
     expose:
       - "80"
