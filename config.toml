@@ -26,30 +26,4 @@ theme = "hugo-elate-theme"
   [params.hero]
     title = 'Awesome Movies, Decent TV'
     subtitle = 'Why pay to watch garbage when you can watch good stuff for free?'
- 
-  # Intro section
-  # Available icons: http://simplelineicons.com/
-
-  # About section
-  [params.tv]
-    enable = true
-    title = "Movies & TV"
-    description = "If you've been invited, let's take two minutes and get you set up"
-
-    [[params.tv.item]]
-      description = "Head over to [Plex.tv](https://www.plex.tv) and make a free account."
-
-    [[params.tv.item]]
-      description = "Install the Plex app onto your smart TV, Roku, Fire Stick, Apple TV, console, or whatever you plan to use."
-
-	[[params.tv.item]]
-      description = "Log into the app, go into the settings, find the setting related to remote streaming quality, and set it to 'Original', or whatever the highest setting is. This increases the quality of your streams and reduces the work that my server has to do. **I will constantly pester you to do this if you don't!**"
-
-	[[params.tv.item]]
-      description = "Let me know what email you signed up with so I can provide your account access to my server."
-	  
-	[[params.tv.item]]
-      description = "That's it! Now just open the app and head to the **Alex's Movies** or **Alex's TV Shows** sections to watch tons of content!"
-   
-
   
