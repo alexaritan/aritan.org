@@ -34,7 +34,7 @@ theme = "hugo-elate-theme"
   [params.tv]
     enable = true
     title = "Movies & TV"
-    description = "Let's take two minutes and get you set up"
+    description = "If you've been invited, let's take two minutes and get you set up"
 
     [[params.tv.item]]
       description = "Head over to [Plex.tv](https://www.plex.tv) and make a free account."
