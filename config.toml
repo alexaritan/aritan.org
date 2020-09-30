@@ -20,12 +20,12 @@ theme = "hugo-elate-theme"
   [params.navigation]
     brand = "Alex TV"
     home = "Home"
-    tv = "TV"
+    tv = "Movies & TV"
   
   # Hero section
   [params.hero]
-    title = 'Watch Good TV'
-    subtitle = 'Why pay to watch shitty TV when you can watch good stuff for free?'
+    title = 'Awesome Movies, Decent TV'
+    subtitle = 'Why pay to watch garbage when you can watch good stuff for free?'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -33,7 +33,7 @@ theme = "hugo-elate-theme"
   # About section
   [params.tv]
     enable = true
-    title = "TV"
+    title = "Movies & TV"
     description = "Let's take two minutes and get you set up"
 
     [[params.tv.item]]
@@ -43,7 +43,7 @@ theme = "hugo-elate-theme"
       description = "Install the Plex app onto your smart TV, Roku, Fire Stick, Apple TV, console, or whatever you plan to use."
 
 	[[params.tv.item]]
-      description = "Go to that app's settings, find the setting related to remote streaming quality, and set it to 'Original', or whatever the highest setting is. This increases the quality of your streams and reduces the work that my server has to do. **I will constantly pester you to do this if you don't!**"
+      description = "Log into the app, go into the settings, find the setting related to remote streaming quality, and set it to 'Original', or whatever the highest setting is. This increases the quality of your streams and reduces the work that my server has to do. **I will constantly pester you to do this if you don't!**"
 
 	[[params.tv.item]]
       description = "Let me know what email you signed up with so I can provide your account access to my server."
